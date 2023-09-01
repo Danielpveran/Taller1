@@ -1,10 +1,39 @@
 *{
     font-size: 20px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: justify;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: rgb(0, 0, 0);
+}
+
+html{
+    background-image: url(https://www.portafolio.co/files/article_multimedia/uploads/2023/03/27/642203e5f12aa.jpeg) ;
 }
 
 .Title{
     color: rgb(25, 0, 255);
     text-align: center;
     font-size: 40px;
+}
+
+.LogoType{
+    width: 30em;
+    padding: 9% 40%;
+}
+
+.Caracteristicas{
+    border: 2px solid black;
+    background-color: white;
+}
+
+
+.Pagefoot{
+    font-size: 30px;
+}
+
+.Beneficios{
+    border: 2px solid black;
+    background-color: white;
 }
