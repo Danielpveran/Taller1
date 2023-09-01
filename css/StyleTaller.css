@@ -5,7 +5,7 @@
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    color: rgb(0, 0, 0);
+
 }
 
 html{
@@ -16,11 +16,18 @@ html{
     color: rgb(25, 0, 255);
     text-align: center;
     font-size: 40px;
+    border: 2px solid black;
+    background-color: white;
 }
 
 .LogoType{
-    width: 30em;
-    padding: 9% 40%;
+    width: 40em;
+   padding-left: 50px;
+   padding-bottom: 40px;
+}
+.Intro{
+    border: 2px solid black;
+    background-color: white;
 }
 
 .Caracteristicas{
@@ -28,12 +35,8 @@ html{
     background-color: white;
 }
 
-
-.Pagefoot{
-    font-size: 30px;
-}
-
 .Beneficios{
     border: 2px solid black;
     background-color: white;
+    font-size: 30px;
 }
